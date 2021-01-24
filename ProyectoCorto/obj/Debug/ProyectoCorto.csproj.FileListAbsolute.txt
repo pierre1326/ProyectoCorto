@@ -1,0 +1,10 @@
+c:\users\pierr\source\repos\ProyectoCorto\ProyectoCorto\bin\Debug\ProyectoCorto.exe.config
+c:\users\pierr\source\repos\ProyectoCorto\ProyectoCorto\bin\Debug\ProyectoCorto.exe
+c:\users\pierr\source\repos\ProyectoCorto\ProyectoCorto\bin\Debug\ProyectoCorto.pdb
+c:\users\pierr\source\repos\ProyectoCorto\ProyectoCorto\obj\Debug\ProyectoCorto.csprojAssemblyReference.cache
+c:\users\pierr\source\repos\ProyectoCorto\ProyectoCorto\obj\Debug\ProyectoCorto.Properties.Resources.resources
+c:\users\pierr\source\repos\ProyectoCorto\ProyectoCorto\obj\Debug\ProyectoCorto.csproj.GenerateResource.cache
+c:\users\pierr\source\repos\ProyectoCorto\ProyectoCorto\obj\Debug\ProyectoCorto.csproj.CoreCompileInputs.cache
+c:\users\pierr\source\repos\ProyectoCorto\ProyectoCorto\obj\Debug\ProyectoCorto.exe
+c:\users\pierr\source\repos\ProyectoCorto\ProyectoCorto\obj\Debug\ProyectoCorto.pdb
+c:\users\pierr\source\repos\ProyectoCorto\ProyectoCorto\obj\Debug\ProyectoCorto.Form1.resources
